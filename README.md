@@ -30,3 +30,7 @@ The purpose of this program is to explore coding techniques in pure C++ to build
 	YOU: bye
 	 AI: PLEASE RETURN SOON
 	 
+__________________________________________________________________________
+
+ERROR TRYING TO UPLOAD C++ SOURCE CODE:
+fatal: The remote end hung up unexpectedly
