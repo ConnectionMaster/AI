@@ -32,5 +32,5 @@ The purpose of this program is to explore coding techniques in pure C++ to build
 	 
 __________________________________________________________________________
 
-ERROR TRYING TO UPLOAD C++ SOURCE CODE:
-fatal: The remote end hung up unexpectedly
+	ERROR ON UPLOAD TO GITHUB:
+	fatal: The remote end hung up unexpectedly
