@@ -1,8 +1,8 @@
 # basic_chatbot
-The purpose of this program is to explore coding techniques in pure C++ to build a basic chat bot.  The goal is to study C++ alternatives to advanced coding techniques such as regular expressions.  Please note: This is an early alpha version, so it is simplified, in the hopes of being useful for learning the fundamentals.  Learning on an advanced system may take a few years.
+The purpose of this program is to explore coding techniques in coding to build a basic chat bot.  The goal is to study various  alternatives to advanced coding techniques such as regular expressions.  Please note: This is prototypical, so it is simplified, in the hopes of being useful for learning A.I. fundamentals.  Learning on an advanced system may take a few years.
 
 
-	BASIC CHAT BOT IN C++
+	BASIC CHAT BOT
 
 	YOU: hello
 	 AI: HI THERE 
@@ -30,7 +30,3 @@ The purpose of this program is to explore coding techniques in pure C++ to build
 	YOU: bye
 	 AI: PLEASE RETURN SOON
 	 
-__________________________________________________________________________
-
-	ERROR ON UPLOAD TO GITHUB:
-	fatal: The remote end hung up unexpectedly
