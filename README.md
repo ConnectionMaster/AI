@@ -1,8 +1,8 @@
-# basic_chatbot
-The purpose of this program is to explore coding techniques in coding to build a basic chat bot.  The goal is to study various  alternatives to advanced coding techniques such as regular expressions.  Please note: This is prototypical, so it is simplified, in the hopes of being useful for learning A.I. fundamentals.  Learning on an advanced system may take a few years.
+# Artificial Intelligence fundamentals
+The purpose of this program is to explore coding techniques in coding to build a basic artificial intelligence.  The goal is to study alternatives to advanced coding techniques.  Please note: This is still prototypical, so it is simplified, in the hopes of being useful for learning A.I. fundamentals.  Learning on an advanced system may take a few years.
 
 
-	BASIC CHAT BOT
+	A.I. FUNDAMENTALS
 
 	YOU: hello
 	 AI: HI THERE 
