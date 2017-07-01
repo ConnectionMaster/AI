@@ -1,8 +1,10 @@
 # Artificial Intelligence Basics
 The purpose of this program is to explore techniques in coding to build a basic artificial intelligence.  The goal is to study alternatives to advanced coding techniques.  Please note: This project is prototypical, so it is simplified, in the hopes of being useful for learning A.I. basics.  Learning advanced A.I. may take several years.
-#!/bin/bash
+
+SOURCE CODE
 
 ```
+#!/bin/bash
 
 human="I'M A HUMAN"
 regex="I'M A (.*)"
@@ -20,3 +22,16 @@ P="\n\t$L<-> <-> $L<o> <o> $L"
 printf  "$title" "$regex" "$response"
   
 ```  
+PROGRAM OUTPUT
+
+```
+	HUMAN: I'M A HUMAN
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^
+	<-> <-> I'M A (.*)
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^
+	<o> <o> YOU'RE A HUMAN
+^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^
+	
+
+
+```
