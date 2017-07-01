@@ -1,5 +1,5 @@
 # Artificial Intelligence Basics
-The purpose of this project is to explore coding techniques to build basic artificial intelligence.  The goal is to study how to get the most out of the basics as a possible alternative to advanced coding techniques.  As a prototypical project, this is may make it easier to learn A.I. fundamentals.  First we introduce wildcards called: Numbered Capturing Groups. "BASH_REMATCH[1]", stands for BASH Regular Expressions Match, captured and numbered one.
+The purpose of this project is to explore coding techniques to build basic artificial intelligence.  The goal is to study how to get the most out of the basics as a possible alternative to advanced coding techniques.  A prototypical project may make it easier to learn fundamentals of A.I.  First we introduce pattern matching with wildcards called: Numbered Capturing Groups. "BASH_REMATCH[1]", stands for BASH Regular Expressions Match, captured and numbered one.
 
 
 # SOURCE CODE
