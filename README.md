@@ -4,7 +4,7 @@ The purpose of this project is to explore coding techniques to build basic artif
 
 # SOURCE CODE
 
-```
+```bash
 #!/bin/bash
 
 human="I'M A HUMAN"
