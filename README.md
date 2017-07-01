@@ -1,5 +1,5 @@
 # Artificial Intelligence Basics
-The purpose of this project is to explore coding techniques to build basic artificial intelligence.  The goal is to study how to get the most out of the basics as a possible alternative to advanced coding techniques.  As a prototypical project, it is simplified for learning A.I. fundamentals.  
+The purpose of this project is to explore coding techniques to build basic artificial intelligence.  The goal is to study how to get the most out of the basics as a possible alternative to advanced coding techniques.  As a prototypical project, it is simplified for learning A.I. fundamentals.  This source code introduces the use wildcard variables called: Numbered Capturing Groups.
 
 
 # SOURCE CODE
