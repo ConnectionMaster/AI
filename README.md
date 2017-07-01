@@ -7,23 +7,21 @@ The purpose of this project is to explore coding techniques to build basic artif
 ```
 #!/bin/bash
 
-# DATA
 human="I'M A HUMAN"
 regex="I'M A (.*)"
-title="YOU: $human"
+title="HUMAN: $human"
 
-# PROCESS
 if [[ $human =~ $regex ]]
 then
 response="YOU'RE A ${BASH_REMATCH[1]}"
 fi
 
-# OUTPUT
 F=$(printf "%-19s" "^")
 L="%s\n${F// /=^}\n\t"
 P="\n\t$L<-> <-> $L<o> <o> $L"
 
-printf  "$title" "$regex" "$response"
+printf "$P" "$title" "$regex" "$response"
+
   
 ```  
 # PROGRAM OUTPUT
