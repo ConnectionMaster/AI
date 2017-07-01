@@ -8,7 +8,7 @@ SOURCE CODE
 
 human="I'M A HUMAN"
 regex="I'M A (.*)"
-title="HUMAN: $human"
+title="YOU: $human"
 
 if [[ $human =~ $regex ]]
 then
@@ -25,7 +25,7 @@ printf  "$title" "$regex" "$response"
 PROGRAM OUTPUT
 
 ```
-	HUMAN: I'M A HUMAN
+	YOU: I'M A HUMAN
 ^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^
 	<-> <-> I'M A (.*)
 ^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^
